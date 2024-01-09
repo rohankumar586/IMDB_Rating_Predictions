@@ -15,3 +15,6 @@ We tested multiple models, analyzed their mean squared error (MSE), and derived 
 ![Predictions from the Final Model selected](https://github.com/rohankumar586/IMDB_Rating_Predictions/assets/142628516/a098ca50-7adf-43be-902d-6686664adf0a) <!-- Please replace link-to-image with the actual URL where the image is hosted -->
 
 For more detailed insights, please refer to our complete analysis and the corresponding visual data representations.
+
+## Acknowledgments
+This project is a part of a course at McGill University. Special thanks to the course instructors and fellow students for their support and guidance.
